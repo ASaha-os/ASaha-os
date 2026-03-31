@@ -1,11 +1,11 @@
 # **Akash Saha | IT'28 | Algorithm & Backend Enthusiast**
 
-A passionate Computer Science student dedicated to strengthening foundational knowledge in high-performance algorithms, Data Structures, and exploring backend systems development, with a deep interest in Computer Algebra Systems (CAS). Currently focusing on mastering core CS fundamentals and competitive programming.
+A passionate Computer Science student dedicated to strengthening foundational knowledge in high-performance algorithms, Data Structures, and exploring backend systems development, with a deep interest in Machine Learning. Currently focusing on mastering core CS fundamentals and competitive programming.
 
 ## **🎯 Core Focus**
 
 * **Foundations:** Data Structures & Algorithms (DSA), Competitive Programming (CP).  
-* **Systems:** Backend Development, CAS Implementation, C++/Java Concurrency.  
+* **Systems:** Backend Development, C++/Java Concurrency.  
 * **Applied Tech:** Core Machine Learning (ML), AWS Fundamentals.
 
 ## **🛠️ Key Technologies**
